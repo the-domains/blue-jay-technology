@@ -1,7 +1,7 @@
 name: Blue Jay Technology
 favicon: null
-layout_spectrum: 0.40784791368059814
-typography_spectrum: 0.5678713868837804
+layout_spectrum: 1
+typography_spectrum: 0.3642
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8222139172721654
+    - '#ffffff'
+    - '#7ca9dc'
+    - '#5e5e5e'
+    - '#bad3ef'
+    - '#5278a5'
+  brandStrength: 0.8125
   lightness: 0.3028031613212079
   saturation: 0.2097911110613495
   rhythmicContrast: 0.35476266127079725
