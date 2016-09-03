@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Digital Marketing Company]]></title>
-        <description><![CDATA[The Digital Marketing Company]]></description>
+        <title><![CDATA[Blue Jay Technology - The Digital Marketing Company]]></title>
+        <description><![CDATA[Blue Jay Technology - The Digital Marketing Company]]></description>
         <link>https://thegrid.ai/blue-jay-technology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 16:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 15:46:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blue-jay-technology/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Marketing for a digital world]]></title>
-            <description><![CDATA[<article><h1>Digital Marketing for a digital world</h1><p>Si no estás en Internet, no existes. Por ello, desde Blue Jay Technology te acompañamos en tu camino digital, ya sea porque estés empezando ahora, o porque necesites dar ese paso más para profesionalizar tu empresa. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99f3e14763ac755dca5b3e22286d61ec90b2b9db.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Digital Marketing for a digital world</h1><p>Si no estás en Internet, no existes. Por ello, desde Blue Jay Technology te acompañamos en tu camino digital, ya sea porque estés empezando ahora, o porque necesites dar ese paso más para profesionalizar tu empresa. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81f2ae3df2829f3046c4ffa951040d8b8dd17e27.jpg"></article>]]></description>
             <link>https://thegrid.ai/blue-jay-technology/digital-marketing-for-a-digital-world/index.html</link>
             <guid isPermaLink="false">ffe7b451-1748-4b95-93f0-29db613b87cf</guid>
             <pubDate>Mon, 21 Dec 2015 16:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clientes]]></title>
+            <description><![CDATA[<article><h1>Clientes</h1><p>Granier Panes Artesanos</p></article>]]></description>
+            <link>https://thegrid.ai/blue-jay-technology/clientes/index.html</link>
+            <guid isPermaLink="false">ed12bd44-0715-422f-832b-d2871d15c788</guid>
+            <pubDate>Wed, 31 Aug 2016 15:46:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/blue-jay-technology/9aa11ba6-3db5-4357-9304-e9e98171237b/index.html</link>
             <guid isPermaLink="false">9aa11ba6-3db5-4357-9304-e9e98171237b</guid>
             <pubDate>Mon, 21 Dec 2015 16:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clientes]]></title>
-            <description><![CDATA[<article><h1>Clientes</h1><p>Granier Panes Artesanos</p></article>]]></description>
-            <link>https://thegrid.ai/blue-jay-technology/clientes/index.html</link>
-            <guid isPermaLink="false">ed12bd44-0715-422f-832b-d2871d15c788</guid>
-            <pubDate>Mon, 21 Dec 2015 15:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Servicios]]></title>
