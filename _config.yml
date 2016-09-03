@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Clientes
+    id: ed12bd44-0715-422f-832b-d2871d15c788
+    type: content
 favicon: null
 title: Blue Jay Technology - The Digital Marketing Company
 description: Where digital meets magic
